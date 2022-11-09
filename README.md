@@ -1,1 +1,1 @@
-# Cognizant-technology-sol-codes
+# Cognizant-technology-soln.
